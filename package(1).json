@@ -1,0 +1,9 @@
+{
+  "name": "kichikustoz",
+  "version": "1.0.0",
+  "description": "AI yordamida test yaratuvchi platforma",
+  "private": true,
+  "engines": {
+    "node": "24.x"
+  }
+}
